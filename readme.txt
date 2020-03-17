@@ -13,4 +13,8 @@ git branch <name> : 创建分支
 git checkout <name> : 切换分支
 git merge <name> : 合并某分支到当前分支
 git branch -d <name> : 删除分支
-on my god!
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> a
