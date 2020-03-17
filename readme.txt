@@ -5,3 +5,7 @@ git status : to see the status
 git log : 显示日志，及以往版本
 git log --pretty=oneline : 以一行来显示版本
 git reflog : 查看修改记录
+git checkout -- file : 丢弃工作区的修改
+git checkout -b file : 创建并切换分支
+git branch : 查看当前分支
+
