@@ -8,4 +8,4 @@ git reflog : 查看修改记录
 git checkout -- file : 丢弃工作区的修改
 git checkout -b file : 创建并切换分支
 git branch : 查看当前分支
-
+git checkout -b file = git branch file + git checkout file
